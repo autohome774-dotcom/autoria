@@ -7,7 +7,7 @@ const path = require('path');
 // НАСТРОЙКИ
 const TELEGRAM_BOT_TOKEN = '8539302594:AAElRKi_77Mm9tCpOyODY3nLs9Z9BzPlp18';
 const CHAT_ID = '-5055127448';
-const WEBHOOK_URL = 'https://autoriakonkurs/bot' + TELEGRAM_BOT_TOKEN;
+const WEBHOOK_URL = 'https://autoriakonkurs.onrender.com/bot' + TELEGRAM_BOT_TOKEN;
 
 // СПИСОК БАНКОВ ДЛЯ КНОПКИ "ЗАПРОС"
 const banksForRequestButton = [
